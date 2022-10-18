@@ -18,9 +18,9 @@ This is my pure JavaScript Calculator
 
 # If you want to add more please copy this code:
 
-### HTML(in <option>)
+### HTML(in < option >)
 
-<select value="#YOUR_OPERATOR_VALUE_HERE#">#YOUR_OPERATOR_HERE#</select>
+< select value="#YOUR_OPERATOR_VALUE_HERE#">#YOUR_OPERATOR_HERE#</select >
 
 ### JS
 
