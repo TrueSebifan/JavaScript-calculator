@@ -20,7 +20,7 @@ This is my pure JavaScript Calculator
 
 ### HTML(in < option >)
 
-< select value="#YOUR_OPERATOR_VALUE_HERE#">#YOUR_OPERATOR_HERE#</select >
+< select value="#YOUR_OPERATOR_VALUE_HERE#">#YOUR_OPERATOR_HERE#< /select >
 
 ### JS
 
