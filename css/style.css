@@ -1,0 +1,46 @@
+form{
+  background: #282828;
+  color:lightgray;
+}
+body{
+  background: #141414;
+  font-family: fantasy;
+  font-size:30px;
+}
+option{
+  color:white;
+  background-color: gray;
+}
+select {
+  color:white;
+  background-color: gray;
+  font-family: monospace;
+}
+input{
+  color:white;
+  background: #000;
+  font-family: arial;
+}
+button{
+  background:#424242;
+  color:white;
+  font-family: Gabriola;
+  font-size:40px;
+}
+b{
+  color:white;
+  background-color:black;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  padding:10px;
+}
+span{
+  color:red;
+  background-color:white;
+  padding:10px;
+  padding-top:6px;
+}
+.calc-container{
+  margin:50px;
+  border: solid 10px black;
+}

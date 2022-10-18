@@ -26,3 +26,6 @@ This is my pure JavaScript Calculator
 
 else if(op == "#YOUR_OPERATOR_VALUE#")
 calculate = valueA #OPERATOR# valueB;
+}
+
+###

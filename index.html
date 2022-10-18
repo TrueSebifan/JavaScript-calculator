@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>My first JS calculator!</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="shortcut icon" href="icons/SiteIcon.ico">
+</head>
+
+<body>
+
+<section class="calc-container">
+
+  <form>
+    Value 1:
+    <input type="text" id="value1">
+    <br>
+    <br>
+    Value 2:
+    <input type="text" id="value2">
+    <br>
+    <br>
+    Operator:
+    <br>
+    <br>
+    <select id="operator">
+      <option value="add">Add</option>
+      <option value="sub">Subtract</option>
+      <option value="div">Divide</option>
+      <option value="mul">Multiply</option>
+      <option value="exp">Exponantiate</option>
+    </select>
+    <br>
+    <br>
+    <button type="button" onclick="calc();">Calculate!</button>
+  </form>
+<section class="result-container">
+    <p>
+      <b>Result:</b>
+      <span id="result">
+None
+      </span>
+    </p>
+</section>
+  </section>
+</body>
+<script src="scripts/main.js" charset="utf-8">
+</script>
+
+</html>
